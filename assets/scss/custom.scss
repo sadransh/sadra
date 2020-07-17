@@ -1,0 +1,276 @@
+
+$primary-dark : #272935; 
+$menu-primary-dark : #2d303d; 
+$menu-text-dark:#cecac4 ;
+$menu-text_active-dark : orange;
+$menu-title-dark : red;
+$main-green : #06805E;
+
+
+
+/*************************************************
+ *  Navigation bar
+ **************************************************/
+
+ .dark .navbar {
+    height: 70px;
+    background: $menu-primary-dark;
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11);
+    font-size: #{$sta-font-size-small}px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  
+    // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
+    // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
+    padding: 0 1rem;
+  
+    .dark .nav-item {
+        color : red;
+      // For z-index compatibility with logo on mobile layout, otherwise nav-item can't be clicked when logo present.
+      position: relative;
+    }
+    @include media-breakpoint-down(md) {
+      height: 50px;
+  
+      .dark .navbar-nav-scroll {
+        width: 100%;
+        overflow: hidden;
+  
+        .dark .navbar-nav {
+            color : red;
+
+          overflow-x: auto;
+          white-space: nowrap;
+          -webkit-overflow-scrolling: touch;
+        }
+      }
+    }
+  
+    .dark .navbar-nav {
+      display: flex;
+  
+       .nav-link {
+        // color: rgba($menu-text-dark, .85);
+        color :red;
+        &.active,
+        &:hover,
+        &:focus {
+        //   color: $menu-text-dark;
+          color : red;
+
+        }
+  
+        &.active {
+          font-weight: bold !important;
+          color: $menu-text-active-dark !important;
+        //   color : red;
+
+        }
+      }
+    }
+  
+     .dropdown-menu {
+        
+      font-size: #{$sta-font-size-small}px;
+      color : red ;
+
+    }
+  
+    // Note: dedicated `dropdown-item-active` class to prevent ScrollSpy removing `active` class from language chooser.
+     .dropdown-item.active,
+     .dropdown-item-active {
+        // font-size: xx-large;
+    
+      font-weight: bold;
+      color:$main-green !important;
+    }
+
+    
+  }
+  
+
+//   .dark .dropdown-menu .show {
+//     color: red !important;
+//     display: block;
+//   }
+
+
+  .dark .navbar {
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, .11);
+    background-color: $primary-dark;
+    color : red;
+
+  }  
+  // Remove Bootstrap's border from Toggle button.
+  .dark .navbar-toggler {
+    color : $menu-text-dark;
+
+    border: 0 !important;
+    position: relative;  // For z-index clickable mobile logo.
+    z-index: 1030;
+  }
+  .dark .navbar-toggler:focus,
+  .dark .navbar-toggler:active {
+    outline: none !important;
+    box-shadow: none !important;
+    // color : red;
+
+  }
+  
+  @include media-breakpoint-down(md) {  /* Match breakpoint for i18n dropdown in navbar.html. */
+    .dark .i18n-dropdown .nav-link::after {
+        color : red !important;
+
+      // Remove dropdown arrow on small devices (when language name isn't displayed).
+      content: none;
+    }
+  }
+  
+  // Prevent language and theme selectors rendering off page.
+  .dark .i18n-dropdown .dropdown-menu,
+  .dark .theme-dropdown .dropdown-menu {
+    /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
+    position: absolute;
+    color: red !important;
+    /* Below style from .dropdown-menu-right to prevent dropdown going off page. */
+    right: 0;
+    left: auto;
+  }
+  
+  // Allow user to horizontally scroll.
+  // Commented out this feature as it causes dropdowns to appear within the menu bar.
+  // TODO: re-enable in a way that doesn't break dropdowns.
+  /*
+  .navbar .collapse {
+    overflow-x: auto;
+  }
+  */
+  
+  .dark .navbar-brand {
+    // Set v-padding to 5px to align with 50/70px responsive max navbar heights.
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color :#cecac4;// #999691;
+    font-family: Sniglet;
+
+    font-weight: bold;
+    position: relative;
+    z-index: 1030;  // For z-index clickable mobile logo.
+  }
+  .navbar-brand {
+    // Set v-padding to 5px to align with 50/70px responsive max navbar heights.
+    font-family: Sniglet;
+
+  }
+  
+  // Dynamically fit logo image to space available.
+  // No need to explicitly set a size for each breakpoint.
+  // See https://caniuse.com/#feat=mdn-css_properties_width_stretch .
+  .dark .navbar-brand img {
+    width: auto;
+    height: -moz-available;
+    height: -webkit-fill-available;
+    height: -webkit-stretch;
+    color : red;
+
+    height: stretch;
+    max-height: 60px;  // For lg+ responsive sizing. 60px height +10px v-padding = 70px
+    max-width: fit-content;  // Must override default responsive image style.
+  }
+  
+  .dark #navbar-main .main-menu-item ul li .nav-link {
+    color: $menu-text-dark;
+    
+  }
+  
+  @include media-breakpoint-down(md) {
+    // Used in conjunction with mobile .navbar-brand to center logo on mobile.
+    .dark .navbar-brand-mobile-wrapper {
+      position: absolute;
+      left: 0;
+      right: 0;
+    }
+    .dark .navbar-brand {
+      // Center logo in mobile navbar.
+      margin: 0 auto;
+      
+    }
+    .dark .navbar-brand img {
+      max-height: 40px;  // 40px height + 10px v-padding = 50px.
+    }
+    .dark .navbar-toggler {
+      border-color: transparent;  // Remove Bootstrap's border from Toggle button.
+    //   color : red;
+
+    }
+    .dark #navbar-main .main-menu-item {
+      text-align: left !important;
+      padding-left: 0;
+    //   color : red;
+
+    }
+    .dark .navbar-collapse {
+      z-index: 1031 !important;  // Appear just over navbar.
+      position: absolute;
+      left: 0;
+      top: 50px;
+      width: 100%;
+      background-color: $menu-primary-dark;
+      text-align: center !important;
+    //   color : red;
+
+    }
+    .dark #navbar-main .main-menu-item .nav-item {
+      padding: 10px 15px !important;
+      color : red !important;
+
+    }
+    #navbar-main .main-menu-item .nav-item .nav-link {
+      padding: 5px 15px !important;
+    //   color : red;
+
+    }
+  }
+  
+  .dark ul.nav-icons {
+    list-style-type: none;
+    font-size: 18px;
+    padding: 0.5rem 0 0.5rem 0;
+    margin: 0;
+    color : red !important;
+
+  }
+  
+  .dark ul.nav-icons li {
+    display: inline;
+    padding-right: 1rem;
+    // color : red;
+
+  }
+  
+   .dark ul.nav-icons li:last-of-type {
+    padding-right: 0;
+    color : red;
+  }
+  
+.dark ul.nav-icons li.nav-item a.nav-link {
+    padding: 0;
+    color : $menu-text-dark;
+  }
+  
+.dark .dropdown-menu {
+    background-color: $menu-primary-dark  !important;
+    // color: $menu-text-dark !important ;
+    z-index: 1032;  // I18n dropdown over mobile expanded menu.
+    // color : orange;
+
+  }
+  
+    .dark .dropdown-item {
+    background-color: $menu-primary-dark !important;
+    color:$menu-text-dark !important ;
+    // color : orange !important;
+  }

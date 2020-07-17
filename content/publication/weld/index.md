@@ -1,0 +1,14 @@
+---
+title: "Next-Generation of Weld Quality Assessment Using Deep Learning and Digital Radiography"
+date: 2020-01-01
+publishDate: 2020-07-04T09:23:40.849651Z
+authors: ["M-Mahdi Naddaf-Sh, Sadra Naddaf-Sh, Hassan Zargaradeh, Sayyed M Zahiri, Maxim Dalton, Gabriel Elpers, Amir R Kashani "]
+publication_types: ["1"]
+abstract: "Continuous monitoring and advance inspection are key parts of modern manufacturing and sustainment of aging infrastructure. The growing demand for these needs and shortage of required skill set can slow down the global economy by increase the risk or costs associated with catastrophic events. The diversity of requirements and specialized standards and codes around the world along with time-sensitive aspect of such inspection makes advanced inspection a prime application for utilizing Artificial Intelligence (AI) as an assisting tool which not only automates repeated tasks but also provides users with supporting inference to increase confidence before and during the inspection operation. In most critical cases, NDT must be done once immediately after the weld is created and then on a scheduled or unscheduled basis as the weld ages. One of most reliable NDT methods is radiography imaging using penetrating gamma or X-ray radiation. Existing Assisted Defect Recognition (ADR) tools in the literature are heavily focused on high-quality X-ray images and laboratory focused imaging parameters which in many cases are not representative of imaging done in construction sites. Moreover , they are focused on welds that have undergone aging and have very clear defects, which classical image processing could address easily. In this paper and demonstration we review the application of deep learning to find defects in newly-created welds with minimal defect size and field-quality manual girth welds as opposed to laboratory welds, and address the industry standards for classification of discontinuities (de-fects). In this work first we developed and contextualized over 100,000 X-ray images from various welds and annotated them with a group of NDT experts with varying years of experience. Based on this data and annotations, an optimized Con-volutional Neural Network (CNN) is designed and trained for detecting discontinuity and defects. Performance of the designed CNN is tested against other CNN architectures and an overall accuracy of 96% over all classes is achieved."
+featured: false
+publication: "*2020 AAAI Spring Symposium*"
+url_pdf : "https://www.researchgate.net/profile/Amir_Reza_Kashanipour/publication/340234164_Next-Generation_of_Weld_Quality_Assessment_Using_Deep_Learning_and_Digital_Radiography/links/5e7e2a1fa6fdcc139c0c3a8f/Next-Generation-of-Weld-Quality-Assessment-Using-Deep-Learning-and-Digital-Radiography.pdf"
+#url_project = ""
+url_slides: "https://aiinmanufacturing.wixsite.com/symposium/next-generation-weld" 
+---
+

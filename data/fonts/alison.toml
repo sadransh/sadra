@@ -1,0 +1,11 @@
+# Font style metadata
+name = "alison"
+
+# Optional Google font URL
+google_fonts = "Sniglet:400,400i|Karla:400,400i,700,700i|Roboto+Mono"
+
+# Font families chewy
+heading_font = "Sniglet"
+body_font = "Karla"
+nav_font = "Karla"
+mono_font = "Roboto Mono"
