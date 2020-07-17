@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5b622aa-2588-4e34-93f0-b275a5254439/deploy-status)](https://app.netlify.com/sites/sadra/deploys)

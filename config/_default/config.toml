@@ -33,7 +33,7 @@ defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 
-googleAnalytics = "UA-172468064-1"
+googleAnalytics = "UA-172902948-1"
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
 paginate = 10  # Number of items per page in paginated lists.
