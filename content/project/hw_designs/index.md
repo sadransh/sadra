@@ -99,5 +99,5 @@ Specifications
 
 5. Other Designs :
 
-{{< gallery dir="hw-designs/other" caption-effect="fade" hover-effect="grow" />}} {{< load-photoswipe >}}
+{{< gallery dir="/hw-designs/other" caption-effect="fade" hover-effect="grow" />}} {{< load-photoswipe >}}
 
