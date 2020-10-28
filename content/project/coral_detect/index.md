@@ -4,7 +4,7 @@
 title: "Coral Image Segmentation"
 summary: "a deep learning project for coral segmentation"
 authors: []
-tags: [software, deep-learning, segmentation, OpenCV, Tensorflow, Keras, Python]
+tags: [software, deep-learning, segmentation, OpenCV, Tensorflow, Keras, Python, machinelearning]
 categories: []
 date: 2020-07-12T23:31:12-05:00
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sadra Naddaf Shargh
+title: Sadra Naddaf
 
 # Username (this should match the folder name)
 authors:
@@ -29,14 +29,14 @@ interests:
 education:
   courses:
   - course: D.Eng. in Electrical Engineering
-    institution: Lamar University
-    year:  (ongoing)
+    institution: 2019 - (ongoing)
+    year:  
   - course: M.Sc. in Computer Science
-    institution: Lamar University
-    year:  (ongoing)
+    institution: 2020 - (ongoing)
+    year:  
   - course: B.Sc. in Computer Engineering
-    institution: Ferdowsi University of Mashhad
-    year: 2018
+    institution: Ferdowsi University of Mashhad 2018
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

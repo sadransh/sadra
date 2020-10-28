@@ -4,7 +4,7 @@
 title: "Deep Learning Road Crack Detection & Classification"
 summary: "An scalable and Efficient design To Detect Road Crack Using DCNN"
 authors: []
-tags: []
+tags: [machinelearning, software]
 categories: [Deep learning, ConvNet, pytorch, artificial intelligence, object detection, crack detection, inspection]
 date: 2020-10-28T15:29:50-05:00
 

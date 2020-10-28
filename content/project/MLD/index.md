@@ -4,8 +4,8 @@
 title: "Magnetic Localization Device"
 summary: "Muscle Movement Tracking through Implanted Magnet(s)"
 authors: []
-tags: []
-categories: [optimization , LIS3MDL , ARM, STM32, Matlab, Genetic Algorithm, robotics,hardware]
+tags: [machinelearning,software]
+categories: [optimization , LIS3MDL , ARM, STM32, Matlab, Genetic Algorithm, robotics,hardware, machinelearning]
 date: 2020-07-11T00:54:32-05:00
 
 # Optional external URL for project (replaces project detail page).
