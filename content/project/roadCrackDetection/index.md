@@ -52,5 +52,5 @@ slides: ""
 
 Related links : 
 
-* [link to publication ( to be added)]({{< ref "/publication/.../index.md" >}})
-* [link to code( to be added)]({{< ref "github.com" >}})
+* [link to publication ( to be added)]()
+* [link to code( to be added)]()
