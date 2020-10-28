@@ -14,7 +14,7 @@ role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Lamar University
+- name: Texas, USA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: /cv.pdf
+  link: /cv-sadraNaddaf-10-28-2020-g.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
