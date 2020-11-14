@@ -48,9 +48,11 @@ slides: ""
 * familiar with different mechanisms to enhance the process of training and deploying a network (e.g. Auto-Augment, mixed precision training, ensemble methods, TTA, ...)
 * Contributed to several Open-source GitHub repositories e.g. google/autoML, bbaug, ... .
 
+
+
 ---------
 
 Related links : 
 
-* [link to publication ( to be added)]()
-* [link to code( to be added)]()
+* [Link To Paper]({{< ref "/publication/rdd2020/index.md" >}})
+* [Github Code repository of the paper](https://github.com/mahdi65/roadDamageDetection2020)
