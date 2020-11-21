@@ -19,10 +19,10 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Pavement condition evaluation is essential to time the preventative or rehabilitative actions and control distress propagation. Failing to conduct timely evaluations can lead to severe structural and financial loss of the infrastructure and complete reconstructions. Automated computer-aided surveying measures can provide a database of road damage patterns and their locations. This database can be utilized for timely road repairs to gain the minimum cost of maintenance and the asphalt's maximum durability. This paper introduces a deep learning-based surveying scheme to analyze the image-based distress data in real-time. A database consisting of a diverse population of crack distress types such as longitudinal, transverse, and alligator cracks, photographed using mobile-device is used. Then, a family of efficient and scalable models that are tuned for pavement crack detection is trained. Proposed models, resulted in F1-scores, ranging from 52% to 56%, and average inference time from 178-10 images per second. Finally, the performance of the object detectors are examined, and error analysis is reported against various images."
 
 # Summary. An optional shortened abstract.
-summary: "Abstract to be added. (after publisher makes the paper online)."
+summary: ""
 
 tags: [deep learning, ConvNet, Object Detection]
 categories: []
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/abs/2011.09577
 url_code: https://github.com/mahdi65/roadDamageDetection2020
 url_dataset:
 url_poster: 

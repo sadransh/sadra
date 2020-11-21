@@ -40,8 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-**Soon results will be published in full detail.**
-
 *	Experienced with State of the art Object Detection Deep CNNs. ranging from ResNets, to EfficientDet. 
 * Hands-on with python, pytorch, and SOTA research platforms(e.g., detectron2 ...) 
 * Implemented a family of modern, scalable and efficient damage detectors with AP50 53.6, F1-score 56.5 % and Inference Time 200 images/sec.
@@ -54,5 +52,6 @@ slides: ""
 
 Related links : 
 
+* [paperswithCode](https://paperswithcode.com/paper/an-efficient-and-scalable-deep-learning)
 * [Link To Paper]({{< ref "/publication/rdd2020/index.md" >}})
 * [Github Code repository of the paper](https://github.com/mahdi65/roadDamageDetection2020)
