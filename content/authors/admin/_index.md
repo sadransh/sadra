@@ -24,6 +24,7 @@ interests:
 - Artificial Intelligence
 - Robotics
 - Computer Vision
+- Deep Learning
 - Embedded Systems
 
 education:
@@ -62,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: /cv-sadranaddaf-10-28-2020-g.pdf
+  link: /cv-2-11-21-full.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,6 +77,6 @@ user_groups:
 
 **Welcome to Sadra's Personal Page  :wave:**
 
-Sadra Naddaf is a Graduate Student in Computer Science & Electrical Engineering focusing on Robotics and application of AI/Machine Learning on robotics at RICS Lab. Currently, his work is focused on SLAM and 3D reconstruction on inspection robots. He has also worked on bionic robots, optimization algorithms, as well as designing embedded systems to control robots.
+Sadra Naddaf is a Graduate Student in Computer Science & Electrical Engineering focusing on Industrial applications of AI/Machine Learning and applied research at RICS Lab. Currently, his work is focused on Computer Vision and Deep Learning. He is interested in putting State of the art research from academia into practice and utilizing it in Industry. He has also worked on bionic robots, optimization algorithms, as well as designing embedded systems to control robots.
 
-### :computer: :video_game: :robot: :camera: 📱 :soccer: 👨🏻‍💻🥇🖥️
+### :computer: :video_game: :robot: 📱  👨🏻‍💻
