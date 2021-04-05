@@ -40,8 +40,8 @@ url_pdf: https://arxiv.org/abs/2011.09577
 url_code: https://github.com/mahdi65/roadDamageDetection2020
 url_dataset:
 url_poster: 
-url_project:
-url_slides:
+url_project: project/roadcrackdetection/
+url_slides: publication/rdd2020/rdd2020-naddaf.pdf
 url_source:
 url_video:
 
