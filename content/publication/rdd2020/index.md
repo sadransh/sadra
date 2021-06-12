@@ -4,7 +4,7 @@
 title: "An Efficient and Scalable Deep Learning Approach for Road Damage Detection"
 authors: ["Sadra Naddaf-Sh","M-Mahdi Naddaf-Sh","Amir R kashani", "Hassan Zargaradeh"]
 date: 2020-11-13T20:28:01-06:00
-doi: ""
+doi: "https://doi.org/10.1109/BigData50022.2020.9377751"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-13T20:28:01-06:00
@@ -42,7 +42,7 @@ url_dataset:
 url_poster: 
 url_project: project/roadcrackdetection/
 url_slides: publication/rdd2020/rdd2020-naddaf.pdf
-url_source:
+url_source: https://ieeexplore.ieee.org/document/9377751
 url_video:
 
 # Featured image
