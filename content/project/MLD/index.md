@@ -37,6 +37,9 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+
+
+# * [Design and Implementation of a Multiple Magnet Tracking System]({{< ref "/publication/mld/index.md" >}})
 slides: ""
 ---
 
@@ -138,5 +141,5 @@ This project is performed during my undergraduate studies in Advanced robotics L
 
 Related links : 
 
-* [Design and Implementation of a Multiple Magnet Tracking System]({{< ref "/publication/mld/index.md" >}})
+
 * [Robust Real-time Magnetic-based Object Localization to Sensor’s Fault using Recurrent Neural Networks]({{< ref "/publication/8964748/index.md" >}})

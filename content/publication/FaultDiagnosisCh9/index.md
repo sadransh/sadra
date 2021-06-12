@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Defect detection and classification in welding using deep learning and digital radiography"
-authors: [ M-Mahdi Naddaf-Sh,Sadra Naddaf-Sh, HassanZargarzadeh, Sayyed M. Zahiri, Maxim Dalton, Gabriel Elpers, Amir R. Kashani]
+authors: [ M-Mahdi Naddaf-Sh,Sadra Naddaf-Sh, Hassan Zargarzadeh, Sayyed M. Zahiri, Maxim Dalton, Gabriel Elpers, Amir R. Kashani]
 date: 2021-06-12T02:43:12-05:00
 doi: "https://doi.org/10.1016/B978-0-12-822473-1.00007-0"
 
