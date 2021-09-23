@@ -128,6 +128,7 @@ Characteristics:
 Also, Test Setup Robot was used to move Magnets accurately, which has 3 stepper motors and works with Marlin Driver.
 {{< gallery >}}
 {{< figure link="project/mld/featured.jpg" caption="The TestSetup Robot" >}}
+{{< figure link="project/mld/featured2.png" caption="Bionic Hand concept in act" >}}
 {{< /gallery >}} {{< load-photoswipe >}}
 
 Results to the end I was working with the team are presented in papers links of which are in ending section of this page
