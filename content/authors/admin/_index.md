@@ -31,9 +31,9 @@ education:
   courses:
   - course: D.Eng. in Electrical Engineering
     institution: 2019 - (ongoing)
-    year:  
-  - course: M.Sc. in Computer Science
-    institution: 2020 - (ongoing)
+  #   year:  
+  # - course: M.Sc. in Computer Science
+  #   institution: 2020 - (ongoing)
     year:  
   - course: B.Sc. in Computer Engineering
     institution: Ferdowsi University of Mashhad 2018
@@ -52,7 +52,7 @@ social:
   link: https://stackoverflow.com/users/1076264
 - icon: google-scholar
   icon_pack: ai
-  link: https://www.semanticscholar.org/author/Sadra-Naddaf/39696320
+  link: https://scholar.google.com/citations?user=7Zl2X9gAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/sadransh
