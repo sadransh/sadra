@@ -22,14 +22,14 @@ bio: My research interests include robotics, machine learning, and computer visi
 
 interests:
 - Artificial Intelligence
-- Robotics
-- Computer Vision
+- Machine Learning
 - Deep Learning
+- Computer Vision
 - Embedded Systems
 
 education:
   courses:
-  - course: D.Eng. in Electrical Engineering
+  - course: Doctrate in Electrical Engineering
     institution: 2019 - (ongoing)
   #   year:  
   # - course: M.Sc. in Computer Science
@@ -75,8 +75,10 @@ user_groups:
 - Visitors
 ---
 
-**Welcome to Sadra's Personal Page  :wave:**
+**Welcome to My Personal Page  :wave:**
 
-Sadra Naddaf is a Graduate Student in Computer Science & Electrical Engineering focusing on Industrial applications of AI/Machine Learning and applied research at RICS Lab. Currently, his work is focused on Computer Vision and Deep Learning. He is interested in putting State of the art research from academia into practice and utilizing it in Industry. He has also worked on bionic robots, optimization algorithms, as well as designing embedded systems to control robots.
+My Name is Sadra and I am a Doctoral Candidate in Electrical Engineering focused on applied AI/ML research at RICS Lab. Currently, my work is focused on Computer Vision and Deep Learning for industrial systems. I am interested in putting state of the art research from academia into practice and enabling industy with AI. Prior to joining RICS Lab, I worked on bionic robots, ML optimization algorithms, as well as designing embedded systems to control robots at FUM Advanced Robotics Lab. 
+
+I spent a fantastic internship at Truveta from January to April 2022.
 
 ### :computer: :video_game: :robot: 📱  👨🏻‍💻
