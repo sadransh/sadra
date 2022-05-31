@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Doctrate in Electrical Engineering
+  - course: Doctorate in Electrical Engineering
     institution: 2019 - (ongoing)
   #   year:  
   # - course: M.Sc. in Computer Science
@@ -77,7 +77,7 @@ user_groups:
 
 **Welcome to My Personal Page  :wave:**
 
-My Name is Sadra and I am a Doctoral Candidate in Electrical Engineering focused on applied AI/ML research at RICS Lab. Currently, my work is focused on Computer Vision and Deep Learning for industrial systems. I am interested in putting state of the art research from academia into practice and enabling industy with AI. Prior to joining RICS Lab, I worked on bionic robots, ML optimization algorithms, as well as designing embedded systems to control robots at FUM Advanced Robotics Lab. 
+My name is Sadra, and I am a Doctoral Candidate in Electrical Engineering focused on applied AI/ML research at RICS Lab. Currently, my work is focused on Computer Vision and Deep Learning for industrial systems. I am interested in putting state-of-the-art research from academia into practice and enabling industry with AI. Before joining RICS Lab, I worked on bionic robots, ML optimization algorithms, and designing embedded systems to control robots at FUM Advanced Robotics Lab. 
 
 I spent a fantastic internship at Truveta from January to April 2022.
 
