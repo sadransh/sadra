@@ -10,27 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant
+role: Sr. Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Texas, USA
+- name: Mountain View, CA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, machine learning, and computer vision.
+bio: My research interests include Machine Learning, NLP, and Deep Learning.
 
 interests:
-- Artificial Intelligence
-- Machine Learning
+- NLP, Generative AI
 - Deep Learning
 - Computer Vision
-- Embedded Systems
 
 education:
   courses:
   - course: Doctorate in Electrical Engineering
-    institution: 2019 - (ongoing)
+    institution: Lamar University 2022
   #   year:  
   # - course: M.Sc. in Computer Science
   #   institution: 2020 - (ongoing)
@@ -75,10 +73,12 @@ user_groups:
 - Visitors
 ---
 
-**Welcome to My Personal Page  :wave:**
+**Welcome! :wave:**
 
-My name is Sadra, and I am a Doctoral Candidate in Electrical Engineering focused on applied AI/ML research at RICS Lab. Currently, my work is focused on Computer Vision and Deep Learning for industrial systems. I am interested in putting state-of-the-art research from academia into practice and enabling industry with AI. Before joining RICS Lab, I worked on bionic robots, ML optimization algorithms, and designing embedded systems to control robots at FUM Advanced Robotics Lab. 
 
-I spent a fantastic internship at Truveta from January to April 2022.
+My name is Sadra.
 
-### :computer: :video_game: :robot: 📱  👨🏻‍💻
+I am a Senior Machine Learning Engineer at Truveta.
+
+With a passion for research and innovation, my work revolves around natural language processing and generative AI to tackle intricate healthcare data challenges and ultimately make a difference in saving lives through data-driven solutions. Prior to my role at Truveta, I embarked on an enriching academic journey, earning a doctorate in Electrical Engineering. Throughout my doctoral studies, I specialized in Applied Machine Learning research, focussing on developing practical industrial AI solutions. 
+
